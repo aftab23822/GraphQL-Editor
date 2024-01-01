@@ -1,0 +1,17 @@
+C:\Users\aftab.ahmed\source\repos\GraphQL_Editor_WinForm\GraphQL_Editor_WinForm\obj\Debug\net6.0-windows\GraphQL_Editor_WinForm.csproj.AssemblyReference.cache
+C:\Users\aftab.ahmed\source\repos\GraphQL_Editor_WinForm\GraphQL_Editor_WinForm\obj\Debug\net6.0-windows\GraphQL_Editor_WinForm.csproj.GenerateResource.cache
+C:\Users\aftab.ahmed\source\repos\GraphQL_Editor_WinForm\GraphQL_Editor_WinForm\obj\Debug\net6.0-windows\GraphQL_Editor_WinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aftab.ahmed\source\repos\GraphQL_Editor_WinForm\GraphQL_Editor_WinForm\obj\Debug\net6.0-windows\GraphQL_Editor_WinForm.AssemblyInfoInputs.cache
+C:\Users\aftab.ahmed\source\repos\GraphQL_Editor_WinForm\GraphQL_Editor_WinForm\obj\Debug\net6.0-windows\GraphQL_Editor_WinForm.AssemblyInfo.cs
+C:\Users\aftab.ahmed\source\repos\GraphQL_Editor_WinForm\GraphQL_Editor_WinForm\obj\Debug\net6.0-windows\GraphQL_Editor_WinForm.csproj.CoreCompileInputs.cache
+C:\Users\aftab.ahmed\source\repos\GraphQL_Editor_WinForm\GraphQL_Editor_WinForm\obj\Debug\net6.0-windows\GraphQL_Editor_WinForm.Form1.resources
+C:\Users\aftab.ahmed\source\repos\GraphQL_Editor_WinForm\GraphQL_Editor_WinForm\bin\Debug\net6.0-windows\GraphQL_Editor_WinForm.exe
+C:\Users\aftab.ahmed\source\repos\GraphQL_Editor_WinForm\GraphQL_Editor_WinForm\bin\Debug\net6.0-windows\GraphQL_Editor_WinForm.deps.json
+C:\Users\aftab.ahmed\source\repos\GraphQL_Editor_WinForm\GraphQL_Editor_WinForm\bin\Debug\net6.0-windows\GraphQL_Editor_WinForm.runtimeconfig.json
+C:\Users\aftab.ahmed\source\repos\GraphQL_Editor_WinForm\GraphQL_Editor_WinForm\bin\Debug\net6.0-windows\GraphQL_Editor_WinForm.dll
+C:\Users\aftab.ahmed\source\repos\GraphQL_Editor_WinForm\GraphQL_Editor_WinForm\bin\Debug\net6.0-windows\GraphQL_Editor_WinForm.pdb
+C:\Users\aftab.ahmed\source\repos\GraphQL_Editor_WinForm\GraphQL_Editor_WinForm\obj\Debug\net6.0-windows\GraphQL_Editor_WinForm.dll
+C:\Users\aftab.ahmed\source\repos\GraphQL_Editor_WinForm\GraphQL_Editor_WinForm\obj\Debug\net6.0-windows\refint\GraphQL_Editor_WinForm.dll
+C:\Users\aftab.ahmed\source\repos\GraphQL_Editor_WinForm\GraphQL_Editor_WinForm\obj\Debug\net6.0-windows\GraphQL_Editor_WinForm.pdb
+C:\Users\aftab.ahmed\source\repos\GraphQL_Editor_WinForm\GraphQL_Editor_WinForm\obj\Debug\net6.0-windows\GraphQL_Editor_WinForm.genruntimeconfig.cache
+C:\Users\aftab.ahmed\source\repos\GraphQL_Editor_WinForm\GraphQL_Editor_WinForm\obj\Debug\net6.0-windows\ref\GraphQL_Editor_WinForm.dll
